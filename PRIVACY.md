@@ -19,7 +19,7 @@ it too.
 Requests are sent without cookies. The developer runs no servers and receives no data, analytics or
 error reports.
 
-**Contact:** memmorryon@gmail.com
+**Contact:** sl2007@yandex.by
 
 ---
 
